@@ -25,7 +25,7 @@ This formula encapsulates the quantum nature of entangled photons, highlighting 
    4. Bias Contribution: Each neuron also includes a bias term bibi​, which represents an additional constant adjustment to the weighted sum of inputs before passing through an activation function.
 
    5. Algebraic Expression: The entire system of inputs, weights, and biases across all neurons in the neural network can be algebraically represented as:
-      ![]()
+      ![](https://github.com/rizitis/entangled_photons_neuronic/blob/main/Screenshot%20from%202024-06-15%2019-51-11.png)
       ![]()
 
 
@@ -36,7 +36,7 @@ This formula encapsulates the quantum nature of entangled photons, highlighting 
 
   2.  Bias (bibi​): The bias bibi​ adds a constant term to the weighted sum of inputs before applying the activation function. It allows the neural network to adjust and shift its decision boundary.
 
- 3.   Overall System Representation: The algebraic expression ![]() <br>
+ 3.   Overall System Representation: The algebraic expression ![](https://github.com/rizitis/entangled_photons_neuronic/blob/main/Screenshot%20from%202024-06-15%2019-51-11.png) <br>
  provides a comprehensive view of the neural network's computation, considering both the weighted interactions of inputs and the biases of each neuron.<br>
  
  
